@@ -1,2 +1,3 @@
-# python
-Python code repo.
+python
+
+check kut.lan host
